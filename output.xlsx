@@ -1,0 +1,24 @@
+Column1,Column2,Column3,Column4,Column5,Column6,80.26,Column7
+Sr.No,Country,Currency Name,Currency Indicate,,,FX Rate,INR
+1,Australia,Australian Dollar,AUD,,,52.38,4204.018800000001
+2,Bangladesh,Bangladeshi Taka,BDT,,,1,80.26
+3,Canada,Canadian Doller,CAD,,,59.73,4793.9298
+4,China,Chinese Yuan,CNY,,,1,80.26
+5,Denmark,Danish Krone,DKK,,,11.8373,950.0616980000001
+6,European Union,Euro,EUR,,,88.2,7078.932000000001
+7,India,Indian Rupees,INR,,,1,11.8373
+8,Indonesian,Indonesian Rupiah,IDR,,,1,80.26
+9,Japan ,Japanese Yen,JPY,,,0.5546,0.5546
+10,Malaysian,Malaysian ringgit,MYR,,,17.52,1406.1552000000001
+11,New Zealand,New Zealand Dollar,NZD,,,48.25,26.759449999999998
+12,Norway,Norwegian krone,NOK,,,7.7848,624.808048
+13,Philippiness,Phillippines Peso,PHP,,,1,80.26
+14,Singapore,Singapore Dollar,SGD,,,1,7.7848
+15,South Korean,South Korean won,KRW,,,0.0607,4.8717820000000005
+16,Sweden,Swedish krone,SEK,,,1,1
+17,Switzerland,Swiss Franc,CHF,,,91.6,7351.816
+18,Taiwan,New Taiwan Dollar,TWD,,,1,80.26
+19,Thailand,Thai Baht,THB,,,2.2813,183.097138
+20, United Arab Emirates,Dirham,AED,,,21.85,1753.6810000000003
+21,United Kindom,Pound Sterling,GBP,,,,0
+22,United State of America,American Dollar,USD,,,80.26,6441.667600000001
